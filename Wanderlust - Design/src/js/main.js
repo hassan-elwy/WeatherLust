@@ -1271,13 +1271,5 @@ function removePlan(btn)
     btn.remove()
 
 }
-/*left for last:
-1-loading screen
-2-cruds
-3-empty view
-4-dashboard top header date :>
-5-local storage data should be appeared in country-city search, main grid,headerselection without clicking explore
-6-weather state are clear , even for negative celisus
 
-*/
 
